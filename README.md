@@ -1,0 +1,1 @@
+spring cloud+shiro+Oauth2+config+nacos+hystrix+ribbon+spring cloud GateWay+rabbit MQ+mybatis plus+redis+mysql
